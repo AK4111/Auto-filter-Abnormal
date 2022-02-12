@@ -12,10 +12,10 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - AK is a open source project. 
-- Source - https://t.me/Ak_Movies_Express  
+- Source - https://t.me/AK_Bot_Support  
 
 <b>DEVS:</b>
-- <a href=https://t.me/Ak_Movies_Express>AK</a>"""
+- <a href=@Aakashpriyadarshi>MAIN DEVELOPER</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and AK will respond whenever a keyword is found the message
