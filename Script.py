@@ -12,7 +12,7 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - AK is a open source project. 
-- Source - https://t.me/AK_Bot_Support  
+- Source - https://t.me/Moviez_Express_Official  
 
 <b>DEVS:</b>
 - <a href=https://t.me/Aakashpriyadarshi>MAIN DEVELOPER</a>"""
